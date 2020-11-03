@@ -10,6 +10,6 @@ The purpose of this analysis was to determine the number of employees that will 
 
 
 ### Summary:  
--About 90,398 roles will need to be filled as many employees start to reach retirement age.
--Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
--Two additional queries you could includee for insight in the upcoming silver tusnami include showing the number of employees in each department that will not be retiring anytime soon. Additionally, you could show the employees who have worked for the firm the longest, and will not be retiring with the "silver tsunami"
+About 90,398 roles will need to be filled as many employees start to reach retirement age.
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+Two additional queries you could includee for insight in the upcoming silver tusnami include showing the number of employees in each department that will not be retiring anytime soon. Additionally, you could show the employees who have worked for the firm the longest, and will not be retiring with the "silver tsunami"
